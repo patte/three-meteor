@@ -3,6 +3,6 @@
 	"description": "A very small package for the core three.js functionality.",
 	"homepage": "https://github.com/stefankutko/three-meteor",
 	"author": "stefankutko",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"git": "https://github.com/stefankutko/three-meteor.git"
 }
