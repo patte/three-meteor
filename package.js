@@ -3,5 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
+    api.add_files('lib/polyfill.js', 'client');
 	api.add_files('lib/three.js', 'client');
 });
