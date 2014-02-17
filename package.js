@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "three.js packaged for use in Meteor."
+    summary: "three.js packaged for use in Meteor."
 });
 
 Package.on_use(function (api) {
