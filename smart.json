@@ -1,8 +1,8 @@
 {
 	"name": "three.js",
 	"description": "A very small package for the core three.js functionality.",
-	"homepage": "https://github.com/stefankutko/three-meteor",
-	"author": "stefankutko",
-	"version": "0.0.8",
-	"git": "https://github.com/stefankutko/three-meteor.git"
+	"homepage": "https://github.com/patte/three-meteor",
+	"author": "patte",
+	"version": "0.0.9",
+	"git": "https://github.com/patte/three-meteor.git"
 }
